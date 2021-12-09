@@ -1,3 +1,8 @@
-# test serverless
+# Test the serverless
 
-> Refs: https://docs.gitlab.com/13.12/ee/user/project/clusters/serverless/aws.html
+> The [serverless] functions host on [vercel].
+
+<!-- Links -->
+
+[serverless]: https://vercel.com/docs/concepts/functions/supported-languages#using-typescript
+[vercel]: https://vercel.com/
